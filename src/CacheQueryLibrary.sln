@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CacheQueryLibrary", "CacheQueryLibrary\CacheQueryLibrary.csproj", "{70469032-F267-42FB-BA9D-CC3BFF792662}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CacheQueryLibrary.Tests", "CacheQueryLibrary.Tests\CacheQueryLibrary.Tests.csproj", "{36E85AEB-F5B0-4E7D-ADB5-25D40B0AF113}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70469032-F267-42FB-BA9D-CC3BFF792662}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70469032-F267-42FB-BA9D-CC3BFF792662}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70469032-F267-42FB-BA9D-CC3BFF792662}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70469032-F267-42FB-BA9D-CC3BFF792662}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36E85AEB-F5B0-4E7D-ADB5-25D40B0AF113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36E85AEB-F5B0-4E7D-ADB5-25D40B0AF113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36E85AEB-F5B0-4E7D-ADB5-25D40B0AF113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36E85AEB-F5B0-4E7D-ADB5-25D40B0AF113}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
